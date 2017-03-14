@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Star Trivia</string>
+    <string name="start">Start</string>
+    <string name="full_name">Name</string>
+    <string name="begin_quiz">Begin Quiz</string>
+    <string name="quiz_position" formatted="false">Question %s/%s</string>
+    <string name="quiz_score" formatted="false">Score: %s</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="answer_correct">Well done!</string>
+    <string name="answer_wrong">Incorrect!</string>
+    <string name="trivia_result_for">Trivia Results</string>
+    <string name="your_score">Your Score:</string>
+    <string name="label_correct" formatted="false">%d Correct</string>
+    <string name="label_total_questions" formatted="false">%d Questions</string>
+    <string name="label_incorrect" formatted="false">%d Incorrect</string>
+    <string name="try_again">Try Again?</string>
+    <string name="no_name_entered">The name field must not be empty.</string>
+</resources>
